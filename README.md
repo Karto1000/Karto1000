@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, i'm Tim 👋</h1>
-<p align="center">I am currently a software engineering intern at <a href="https://github.com/ypsomed">@YpsomedAG</a></p>
+<p align="center">I am currently a software engineering apprentice at <a href="https://github.com/ypsomed">@YpsomedAG</a></p>
 
 <h3 align="center">↓ Languages I work with ↓</h3>
 
