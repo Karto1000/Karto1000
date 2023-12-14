@@ -23,16 +23,26 @@
 
 <hr/>
 
-<h3 align="center">↓ Technologies that I know ↓</h3>
+<h3 align="center">↓ Technologies I know ↓</h3>
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Webstorm-2086D7.svg?style=for-the-badge&logo=webstorm&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Pycharm-21D789.svg?style=for-the-badge&logo=pycharm&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Intellij-9551A0.svg?style=for-the-badge&logo=intellij-IDEA&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Docker-039BC6?style=for-the-badge&logo=docker&logoColor=ffffff">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff">
 </div>
 </p>
 
+<hr/>
+
+<h3 align="center">↓ Programs I use ↓</h3>
+
+<p>
+<div align="center">
+<img src="https://img.shields.io/badge/Webstorm-2086D7.svg?style=for-the-badge&logo=webstorm&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Pycharm-21D789.svg?style=for-the-badge&logo=pycharm&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Intellij-9551A0.svg?style=for-the-badge&logo=intellij-IDEA&logoColor=ffffff">
+</div>
+</p>
